@@ -1,4 +1,4 @@
-# EduBridgeAI Starter
+**# EduBridgeAI Starter
 
 **Tagline:** *Personalized AI-powered learning support for teachers, learners, and parents in under-resourced schools.*
 
@@ -105,3 +105,4 @@ EduBridgeAI-Starter/
 ## 📜 License
 
 Proprietary – All rights reserved by **Zwelakhe Msuthu**.
+**
