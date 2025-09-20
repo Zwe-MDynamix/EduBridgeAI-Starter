@@ -1,0 +1,9 @@
+{
+  "name": "edubridge-ai-starter",
+  "version": "0.1.0",
+  "private": true,
+  "main": "App.js",
+  "scripts": {
+    "start": "expo start"
+  }
+}
