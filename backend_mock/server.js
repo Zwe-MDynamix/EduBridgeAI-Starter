@@ -1,1 +1,0 @@
-const express=require('express');const app=express();app.use(express.json());app.post('/auth/send-otp',(req,res)=>res.json({success:true,otp:'1234'}));app.post('/auth/verify-otp',(req,res)=>res.json({success:true,token:'mock-token'}));app.get('/learners',(req,res)=>res.json([{id:1,name:'Thabo',progress:0}]));app.listen(3000,()=>console.log('Mock backend on 3000'));
